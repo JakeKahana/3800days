@@ -1,16 +1,11 @@
 ## Installation
 
-Install 
-- mup : meteor npm install --g mup
-
-
-Install all dependencies. 
+Install all dependencies.
 
 ```
-$ meteor npm install
+$ npm install
 ```
 
 ## Deployment
 
-- cd .deploy
-- mup deploy
+Serve the `public` directory with any static file server.
